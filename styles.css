@@ -43,7 +43,7 @@ html, body {
     font-size: 30px;
     font-weight: bold;
     border: 3px solid;
-    padding: 1em 2em; /* Padding de 1em arriba y abajo, 2em a los lados */
+    padding: 1em 5em; /* Padding de 1em arriba y abajo, 2em a los lados */
 }
 
 .content a:hover {
